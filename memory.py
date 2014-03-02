@@ -27,7 +27,7 @@ def new_game():
     
     exposed = [False]*16
                 
-    print deck
+    #print deck
              
 # define event handlers
 def mouseclick(pos):
